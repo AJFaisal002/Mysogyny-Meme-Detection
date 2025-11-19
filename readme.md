@@ -2,6 +2,7 @@
 ### **Team_Luminaries_0227@LT-EDI-2025: A Transformer-Based Fusion Approach to Misogyny Detection in Chinese Memes**
 
 🔗 **Anthology Link:** https://aclanthology.org/2025.ltedi-1.20/
+
 🔗 **PDF:** https://aclanthology.org/2025.ltedi-1.20.pdf  
 
 ## 📝 Abstract  
@@ -42,5 +43,6 @@ Our multimodal fusion model effectively captured subtle visual–textual cues in
 
 ## 📌 Correct ACL Citation
 [Team_Luminaries_0227@LT-EDI-2025: A Transformer-Based Fusion Approach to Misogyny Detection in Chinese Memes](https://aclanthology.org/2025.ltedi-1.20/) (Faisal et al., LTEDI 2025)
+
 
 
