@@ -1,4 +1,5 @@
-# 📄 ACL Anthology Publication ID: 2025.ltedi-1.20
+# 📄 ACL Anthology Publication 
+-** Anthology ID: 2025.ltedi-1.20**
 ### **Team_Luminaries_0227@LT-EDI-2025: A Transformer-Based Fusion Approach to Misogyny Detection in Chinese Memes**
 
 🔗 **Anthology Link:** https://aclanthology.org/2025.ltedi-1.20/ <br>
