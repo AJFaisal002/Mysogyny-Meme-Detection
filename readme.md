@@ -19,10 +19,8 @@ Detecting misogyny in **Chinese memes** is especially challenging due to linguis
 
 ### 🔥 Multimodal Fusion Result  
 Combining **Chinese BERT + VGG16** produced the strongest results:
-
 - **Macro F1 Score:** **0.90355**  
 - **Rank:** **3rd place** in the competition  
-
 Our multimodal fusion model effectively captured subtle visual–textual cues in Chinese memes, making significant improvements in misogyny detection.
 
 ## 🔖 Publication Details  
@@ -40,7 +38,7 @@ Our multimodal fusion model effectively captured subtle visual–textual cues in
 - **Momtazul Arefin Labib**  
 - **Hasan Murad**
 
-## 📌 Correct ACL Citation
+## 📌 ACL Citation
 ```bibtex
 @inproceedings{faisal-etal-2025-team-luminaries,
     title = "{T}eam{\_}{L}uminaries{\_}0227@{LT}-{EDI}-2025: A Transformer-Based Fusion Approach to Misogyny Detection in {C}hinese Memes",
@@ -65,3 +63,4 @@ Our multimodal fusion model effectively captured subtle visual–textual cues in
     ISBN = "978-88-6719-334-9",
     abstract = "Memes, originally crafted for humor or cultural commentary, have evolved into powerful tools for spreading harmful content, particularly misogynistic ideologies. These memes sustain damaging gender stereotypes, further entrenching social inequality and encouraging toxic behavior across online platforms. While progress has been made in detecting harmful memes in English, identifying misogynistic content in Chinese remains challenging due to the language{'}s complexities and cultural subtleties. The multimodal nature of memes, combining text and images, adds to the detection difficulty. In the LT-EDI@LDK 2025 Shared Task on Misogyny Meme Detection, we have focused on analyzing both text and image elements to identify misogynistic content in Chinese memes. For text-based models, we have experimented with Chinese BERT, XLM-RoBERTa and DistilBERT, with Chinese BERT yielding the highest performance, achieving an F1 score of 0.86. In terms of image models, VGG16 outperformed ResNet and ViT, also achieving an F1 score of 0.85. Among all model combinations, the integration of Chinese BERT with VGG16 emerged as the most impactful, delivering superior performance, highlighting the benefit of a multimodal approach. By exploiting these two modalities, our model has effectively captured the subtle details present in memes, improving its ability to accurately detect misogynistic content. This approach has resulted in a macro F1 score of 0.90355, securing 3rd rank in the task."
 }
+
